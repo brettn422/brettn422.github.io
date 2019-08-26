@@ -303,3 +303,5 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+
+theme: jekyll-theme-time-machine
