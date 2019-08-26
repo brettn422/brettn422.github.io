@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brett Nelson"
   avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master of Science in Quantitative Finance and Risk Management | University of Michigan"
   location         : "Ann Arbor, Michigan"
