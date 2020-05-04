@@ -18,7 +18,7 @@ Mail: email@umich.edu
 Tel: (734) 555-5555
 
 ### About me
-I am a First-Year Masters Student at the University of Michigan
+I am a Second-Year Masters Student at the University of Michigan
 studying Quantitative Finance and Risk Management. 
 
 Here is a link to my [Resume/CV](https://www.google.com).
