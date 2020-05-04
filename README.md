@@ -4,13 +4,13 @@ This repo contains files to my projects and course work.
 
 ### Contact
 
-Mail: email@umich.edu
+Mail: brettn422@gmail.com
 
-Tel: (734) 555-5555
+Tel: (616) 916-1195
 
 ### About me
-I am a First-Year Masters Student at the University of Michigan
-studying Quantitative Finance and Risk Management. 
+I am a graduated Masters Student from the University of Michigan,
+specializing Quantitative Finance and Risk Management. 
 
 Here is a link to my [Resume/CV](https://www.google.com).
 
